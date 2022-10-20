@@ -1,0 +1,34 @@
+.acıklama {
+  margin-top: 15px;
+  font-size: x-large;
+  text-align: center;
+  margin-left: 35px;
+  margin-right: 35px;
+  color: white;
+}
+h2 {
+  text-align: center;
+  font-size: 45px;
+}
+
+.link {
+  text-align: center;
+  font-size: 55px;
+  color: white;
+}
+
+body {
+  background-image: url(https://rare-gallery.com/uploads/posts/373030-4k-wallpaper.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+footer {
+  background-image: url(https://rare-gallery.com/uploads/posts/373030-4k-wallpaper.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  text-align: center;
+  color: white;
+}
