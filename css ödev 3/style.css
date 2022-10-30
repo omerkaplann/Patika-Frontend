@@ -1,0 +1,39 @@
+.container {
+  margin-top: 350px;
+  margin-left: 750px;
+}
+
+.logo {
+  width: auto;
+  height: auto;
+}
+.search > p {
+  padding-left: 75px;
+  margin-bottom: 5px;
+}
+.search > input {
+  width: 350px;
+}
+
+.search > button {
+  margin-top: 10px;
+}
+
+.box1 {
+  background-color: aqua;
+  width: 150px;
+  height: 200px;
+  float: left;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding: 10px;
+}
+.box3 {
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding: 10px;
+}
